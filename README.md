@@ -22,7 +22,7 @@ The AirPods mics are very low quality and generally really buggy, that's why I w
   - Find the paired device and get its name.
 
 ### Download and modify
-- Download the Swift project and modify the name of the device with the one you just found: `let airPodsName = "Your Device Name"` (line: 109)
+- Download the Swift project (folder: `defaultToMacMic`) and modify the name of the device with the one you just found: `let airPodsName = "Your Device Name"` (line: 109)
   - Then run this to compile the script:
     ```
     cd "/Your/Script/Path"
